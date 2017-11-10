@@ -1,0 +1,8 @@
+The Vulture, Adrian Toomes, 1, CAPTURED
+Doctor Octopus, Otto Octavius, 2, CAPTURED
+Venom, Eddie Brock, 3, AT LARGE
+The Tinkerer, Phineas Mason, 5, AT LARGE
+Kingpin, Wilson Fisk, 4, AT LARGE
+Green Goblin, Harry Osborne, 6, DECEASED
+Carnage, Cletus Kasady, 7, CAPTURED
+Rhino, Aleksei Sytsevich, 8, AT LARGE

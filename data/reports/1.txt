@@ -1,0 +1,4 @@
+event:: Theft of Secret Materials at OsCorp
+villain:: Doctor Octopus
+date:: 2017-04-12
+description:: Subject attempted to steal a new metal, stronger than adamanatium.

@@ -1,0 +1,4 @@
+event:: the secret wars
+villain:: The Vulture
+date:: 1988-03-13
+description:: Subject tried to create an interdimensional portal that would rip apart the fabric of reality.

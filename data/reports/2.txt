@@ -1,0 +1,4 @@
+event:: Attempted Theft: Avengers Quinjet
+villain:: The Vulture
+date:: 2017-07-03
+description:: Subject tried to steal a remote-operated quinjet filled with Avengers' weapons and armor. Crashed into a NJ beach.

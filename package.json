@@ -1,0 +1,23 @@
+{
+  "name": "amasync-spiderman",
+  "version": "1.0.0",
+  "description": "## Target of this module - callbacks   - understanding node-style callbacks   - a simple async interaction   - a few sequences of async interactions   - doing an async operation on a collection   - assembling an object from several different asynchronous actions",
+  "main": "exercise.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "shortid": "^2.2.8"
+  },
+  "devDependencies": {
+    "jest-cli": "^20.0.4"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  }
+}
