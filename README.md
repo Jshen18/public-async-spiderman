@@ -15,7 +15,7 @@ In this module, we'll explore foundational concepts of writing and using asynchr
 
 For your friendly neighborhood Spider-Man, the work of saving the world is never done! Spider-Man keeps records of the many villains he has encountered throughout the years as well as detailed summaries of each of his encounters. He's generated lots of data, but he's too busy chasing after the bad guys to write a program that will help him analyze this data. Fortunately, he has hired *you*, dear reader, to help him out. The task won't be easy: you'll need to carefully traverse the tangled web of asynchronous JavaScript, crawling your way up a wall of nested callbacks in order to swing your way to victory.
 
-You've been provided a directory, `data`, which contains all the data you'll be working with in this module, as well as directories in which you'll do your work for each part of the assignment. We will explore two techniques for writing asynchronous JavaScript code in this exercise - callbacks (specifically, Node-style callbacks) and Promises. You'll complete all of the work in `part1-callbacks` before moving on to `part2-promises`.
+You've been provided a directory, `data`, which contains all the data you'll be working with in this module, as well as directories in which you'll do your work for each part of the assignment. We will explore writing node-style callbacks in this exercise. Once you finish implementing the exercise using callbacks, you should consider creating another implementation using Promises for more practice!
 
 Inside the `data` directory, you'll find:
   - `villains.txt`, a text file listing out Spider-Man's rogue's gallery of enemies. Each line in this text file corresponds to an entry, formatted thusly:
